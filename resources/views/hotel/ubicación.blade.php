@@ -1,7 +1,5 @@
 @extends('Layout.master')
 @section('content')
-
-
    <div class="jumbotron jumbotron-fluid">
   <div class="container">
     <h1 class="display-4">  <h3>Ubicado en Cartagena de Indias</h3> </h1>
